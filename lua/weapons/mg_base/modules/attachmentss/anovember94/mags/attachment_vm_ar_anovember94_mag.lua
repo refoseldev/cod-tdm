@@ -1,0 +1,36 @@
+ATTACHMENT.Base = "att_magazine"
+ATTACHMENT.Model = Model("models/viper/mw/attachments/anovember94/attachment_vm_ar_anovember94_mag.mdl")
+
+--Current mag
+ATTACHMENT.BulletList = {
+    [1] = {"j_bullet01"},
+    [2] = {"j_bullet02"},
+    [3] = {"j_bullet03"},
+    [4] = {"j_bullet04"},
+    [5] = {"j_bullet05"},
+    [6] = {"j_bullet06"},
+    [7] = {"j_bullet07"},
+    [8] = {"j_bullet08"},
+    [9] = {"j_bullet09"},
+    [10] = {"j_bullet010"},
+    [11] = {"j_bullet011"},
+    [12] = {"j_bullet012"},
+    [13] = {"j_bullet013"},
+    [14] = {"j_bullet014"},
+    [15] = {"j_bullet015"},
+    [16] = {"j_bullet016"},
+    [17] = {"j_bullet017"},
+    [18] = {"j_bullet018"},
+    [19] = {"j_bullet019"},
+    [20] = {"j_bullet020"},
+    [21] = {"j_bullet021"},
+    [22] = {"j_bullet022"},
+    [23] = {"j_bullet023"},
+    [24] = {"j_bullet024"},
+    [25] = {"j_bullet025"},
+    [26] = {"j_bullet026"},
+    [27] = {"j_bullet027"},
+    [28] = {"j_bullet028"},
+    [29] = {"j_bullet029"},
+    [30] = {"j_bullet030"},
+}

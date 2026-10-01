@@ -1,0 +1,7 @@
+"Call Of Duty"
+{
+	"base"		"base"
+	"title"		"Call Of Duty"
+	"category"	"pvp"
+	"menusystem"	"1"
+}
